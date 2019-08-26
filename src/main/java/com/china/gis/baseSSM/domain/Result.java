@@ -2,13 +2,12 @@ package com.china.gis.baseSSM.domain;
 
 import java.io.Serializable;
 
-/**
- * 
- * @ClassName: Result
+/**   
+ * @ClassName:	Result   
  * @Description: 响应结果模型
  * @author: GG42
- * @date: 2019年8月1日 下午5:06:24
- * @Copyright: 上海城地
+ * @date:	2019年8月26日 下午4:22:54      
+ * @Copyright:  上海城地
  */
 public class Result implements Serializable {
 
