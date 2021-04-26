@@ -59,9 +59,7 @@
 			1.12
 		</commons-codec-varsion>
 		<commons-lang>3.8.1</commons-lang>
-		<commons-io-version>
-			2.6
-		</commons-io-version>
+		<commons-io-version>2.7</commons-io-version>
 		<jsp-version>
 			2.2
 		</jsp-version>
