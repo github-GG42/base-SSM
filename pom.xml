@@ -10,9 +10,7 @@
 	<properties>
 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring-version>
-			4.3.23.RELEASE
-		</spring-version>
+		<spring-version>5.3.18</spring-version>
 		<compiler-plugin-version>
 			3.7.0
 		</compiler-plugin-version>
